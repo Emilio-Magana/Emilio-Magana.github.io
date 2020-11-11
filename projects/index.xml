@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Emilio Magana</title>
+    <link>/projects/</link>
+    <description>Recent content in Projects on Emilio Magana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wednesday, 11 Nov 2020 1:5:10 -0700</lastBuildDate>
+
+	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+
+
+    <item>
+      <title>Junior Design</title>
+      <link>/projects/junior-design/</link>
+      <pubDate>Fri, 13 Mar 2020 12:04:11 -0700</pubDate>
+
+      <guid>/projects/junior-design/</guid>
+      <description>For Junior Design my teammates and I were assigned to build and program a SCARA Robot Arm that would be controlled
+      with an Arduino using a Jetson Nano for computer vision, along with a custom made PCB. The SCARA Robot Arm would have the functionality to draw a 10-inch
+      straight line within 2.5 seconds (with a margin of error within ±0.25 inches) and be able to sort a single layer of US coins into their proper slots of the
+      enclosure. My Teammates were: Liam Duncan, Stephen More, and Mazen Elsheikh.</description>
+    </item>
+
+    <item>
+      <title>Capstone</title>
+      <link>/projects/capstone/</link>
+      <pubDate>Wed, 11 Nov 2020 12:04:11 -0700</pubDate>
+
+      <guid>/projects/capstone/</guid>
+      <description>description here</description>
+    </item>
+  </channel>
+</rss>

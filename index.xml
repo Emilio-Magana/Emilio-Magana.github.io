@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emilio Magana</title>
+    <link>/</link>
+    <description>Recent content on Emilio Magana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Nov 2020 17:10:16 -0700</lastBuildDate>
+
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+
+
+    <item>
+      <title>Junior Design</title>
+      <link>/projects/junior-design/</link>
+      <pubDate>Fri, 13 Mar 2020 12:04:11 -0700</pubDate>
+
+      <guid>/projects/junior-design/</guid>
+      <description>For Junior Design my teammates and I were assigned to build and program a SCARA Robot Arm that would be controlled with an Arduino using a Jetson Nano for
+      computer vision, along with a custom made PCB. The SCARA Robot Arm would have the functionality to draw a 10-inch straight line within 2.5 seconds (with a margin of
+      error within ±0.25 inches) and be able to sort a single layer of US coins into their proper slots of the enclosure.
+      My Teammates were: Liam Duncan, Stephen More, and Mazen Elsheikh.</description>
+    </item>
+
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 12 Mar 2020 17:10:16 -0700</pubDate>
+
+      <guid>/about/</guid>
+      <description>I am currently pursuing my Bachelor of Science at Oregon State University in Electrical and Computer Engineering and plan to finish in June 2021.
+      I’m taking a wide variety of classes, with my interests laying mainly with Integrated Circuits, VLSI, Digital Logic Design, and Power Electronics.
+      As of now I’m in search for an entry level job and possible internship this coming summer for when I graduate from Oregon State in June 2021.
+      Hoping to gain experience and contribute in fields that I specialize within.
+      In my free time one can often find me riding my bike around town, at the Climbing Gyms on Campus, either on rope or bouldering, working on a side project, or at a local house show :-).
+      </description>
+    </item>
+
+  </channel>
+</rss>
